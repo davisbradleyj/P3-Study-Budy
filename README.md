@@ -226,11 +226,17 @@ For more detailed instructions, you can visit GitHub directly to <a herf="https:
 As this application is not designed to allow just anyone to be able to Sign-up, anyone who wishes to review the application can use the following test logins to review from a user's perspective:
 
 `User email - cbell@ucb.edu; User password - testing`
+
 `User email - jmejia@ucb.edu; User password - testing`
+
 `User email - tjohnson@ucb.edu; User password - testing`
+
 `User email - bblackwell@ucb.edu; User password - testing`
+
 `User email - hcraig@ucb.edu; User password - testing`
+
 `User email - jknox@ucb.edu; User password - testing`
+
 `User email - mrobertson@ucb.edu ; User password - testing`
 
 All "students" and "admins" were set up with "testing" as the password, so in theory, all user emails from the sample DB can use the password testing for loging for a review of the application.
